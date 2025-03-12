@@ -175,7 +175,7 @@
         <mxCell id="_8vaypib-p7jJfoowvLp-7" value="handles" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1911" width="80" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="_8vaypib-p7jJfoowvLp-8" value="require" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_8vaypib-p7jJfoowvLp-8" value="applies" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="2230" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="_8vaypib-p7jJfoowvLp-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -355,7 +355,7 @@
         <mxCell id="_8vaypib-p7jJfoowvLp-56" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_8vaypib-p7jJfoowvLp-57" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_8vaypib-p7jJfoowvLp-57" value="verifies" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="2330" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_8vaypib-p7jJfoowvLp-58" value="Quickcheck" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -376,7 +376,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_8vaypib-p7jJfoowvLp-64" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_8vaypib-p7jJfoowvLp-64" value="stocks" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="2460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_8vaypib-p7jJfoowvLp-65" value="Material_Inventory" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -922,7 +922,7 @@
             <mxPoint x="1250" y="2388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ei-yjKU3gjMP3h2L-wKv-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ei-yjKU3gjMP3h2L-wKv-18" value="requires" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="2190" width="80" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ei-yjKU3gjMP3h2L-wKv-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_8vaypib-p7jJfoowvLp-56">
