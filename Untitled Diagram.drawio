@@ -674,10 +674,10 @@
         <mxCell id="_8vaypib-p7jJfoowvLp-133" value="maintenance_id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1620" y="2235" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_8vaypib-p7jJfoowvLp-134" value="result" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_8vaypib-p7jJfoowvLp-134" value="status" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1530" y="2440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_8vaypib-p7jJfoowvLp-135" value="inspection_date" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_8vaypib-p7jJfoowvLp-135" value="check_type" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1700" y="2350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_8vaypib-p7jJfoowvLp-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_8vaypib-p7jJfoowvLp-135" target="_8vaypib-p7jJfoowvLp-135" edge="1">
