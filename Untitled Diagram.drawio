@@ -1027,18 +1027,6 @@
         <mxCell id="ei-yjKU3gjMP3h2L-wKv-43" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="2328" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ei-yjKU3gjMP3h2L-wKv-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.375;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ei-yjKU3gjMP3h2L-wKv-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="2150" as="sourcePoint" />
-            <mxPoint x="110" y="2100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ei-yjKU3gjMP3h2L-wKv-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0.408;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ei-yjKU3gjMP3h2L-wKv-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="2350" as="sourcePoint" />
-            <mxPoint x="110" y="2280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
