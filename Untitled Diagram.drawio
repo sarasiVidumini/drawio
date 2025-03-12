@@ -128,7 +128,7 @@
           <mxGeometry x="391.25" y="2150" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzBJJGRwk2IUik0zCbTJ-245" value="customer_id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="515" y="2012.5" width="120" height="20" as="geometry" />
+          <mxGeometry x="510" y="2007.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fzBJJGRwk2IUik0zCbTJ-258" value="salary" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="260" y="1872.5" width="80" height="17.5" as="geometry" />
